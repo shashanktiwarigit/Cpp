@@ -1,0 +1,6 @@
+i# Ignore compiled files
+*.o
+*.out
+
+# Ignore temporary files
+*~
