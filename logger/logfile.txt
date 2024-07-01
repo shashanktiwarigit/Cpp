@@ -1,0 +1,3 @@
+[2024-06-08 21:02:171]INFO: Program started.
+[2024-06-08 21:02:171]DEBUG: Debugging information.
+[2024-06-08 21:02:171]ERROR: An error occurred

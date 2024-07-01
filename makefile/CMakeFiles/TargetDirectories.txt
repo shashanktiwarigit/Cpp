@@ -1,0 +1,6 @@
+/Users/shashank/practice/cpp/makefile/CMakeFiles/cmake_hello.dir
+/Users/shashank/practice/cpp/makefile/CMakeFiles/edit_cache.dir
+/Users/shashank/practice/cpp/makefile/CMakeFiles/rebuild_cache.dir
+/Users/shashank/practice/cpp/makefile/lib/math/CMakeFiles/math.dir
+/Users/shashank/practice/cpp/makefile/lib/math/CMakeFiles/edit_cache.dir
+/Users/shashank/practice/cpp/makefile/lib/math/CMakeFiles/rebuild_cache.dir
